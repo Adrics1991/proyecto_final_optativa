@@ -7,7 +7,7 @@ La aplicación permite realizar preguntas sobre plantas mediterráneas y obtener
 El proyecto está versionado con GitHub, contenerizado con Docker y orquestado con Docker Compose.
 ## Instalación y ejecución
 ### 1. Clonar el repositorio
-git clone https://github.com/usuario/chatbot-dam.git
+git clone https://github.com/Adrics1991/proyecto_final_optativa.git
 cd chatbot-dam
 
 ### 2. Construir la imagen
@@ -15,10 +15,6 @@ docker build -t chatbot .
 
 ### 3. Levantar los servicios
 docker compose up
-
-### 4. Acceder a la aplicación
-La aplicación queda disponible en el puerto 5000 del host:
-http://localhost:5000
 
 ## Código del Dockerfile
 
