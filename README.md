@@ -37,7 +37,7 @@ CMD ["python", "app.py"]
 
 
 ## docker-compose.yml
-Define el servicio `chatbot`, monta un volumen para persistir `base_datos.json` y expone el puerto 5000.
+Define el servicio `chatbot`, monta un volumen para persistir `base_datos.json`
 
 El archivo docker-compose.yml define el servicio principal del chatbot.
 Se monta un volumen para persistir el archivo base_datos.json 
