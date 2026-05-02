@@ -1,0 +1,11 @@
+version: "3.9"
+
+services:
+  chatbot:
+    build: .
+    container_name: chatbot_app
+    volumes:
+      - ./data/base_datos.json:/app/base_datos.json
+    ports:
+      - "5000:5000"
+    command: ["python", "main.py"]

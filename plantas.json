@@ -1,0 +1,52 @@
+{
+    "aloe vera": {
+        "caracteristicas": "Planta suculenta con hojas carnosas llenas de gel.",
+        "usos": "Se usa en cosmética, cuidado de la piel y quemaduras.",
+        "medicinal": "Propiedades antiinflamatorias, cicatrizantes y calmantes."
+    },
+    "lavanda": {
+        "caracteristicas": "Planta aromática de flores moradas.",
+        "usos": "Muy usada en aceites esenciales y ambientadores.",
+        "medicinal": "Propiedades relajantes, ansiolíticas y antisépticas."
+    },
+    "menta": {
+        "caracteristicas": "Planta herbácea con aroma fresco y hojas verdes.",
+        "usos": "Infusiones, cocina y productos de higiene.",
+        "medicinal": "Propiedades digestivas, refrescantes y descongestionantes."
+    },
+    "romero": {
+        "caracteristicas": "Arbusto aromático de hojas finas y flores azuladas.",
+        "usos": "Condimento culinario, aceites esenciales y ambientadores.",
+        "medicinal": "Propiedades antioxidantes, estimulantes y digestivas."
+    },
+    "tomillo": {
+        "caracteristicas": "Planta aromática de pequeño tamaño con hojas diminutas.",
+        "usos": "Cocina mediterránea, infusiones y aceites esenciales.",
+        "medicinal": "Propiedades antisépticas, expectorantes y antiinflamatorias."
+    },
+    "salvia": {
+        "caracteristicas": "Planta aromática con hojas grisáceas y flores violetas.",
+        "usos": "Cocina, infusiones y aromaterapia.",
+        "medicinal": "Propiedades digestivas, antibacterianas y reguladoras hormonales."
+    },
+    "orégano": {
+        "caracteristicas": "Planta aromática muy usada en gastronomía mediterránea.",
+        "usos": "Condimento culinario, aceites esenciales y conservantes naturales.",
+        "medicinal": "Propiedades antioxidantes, antibacterianas y digestivas."
+    },
+    "manzanilla": {
+        "caracteristicas": "Planta herbácea con flores blancas y centro amarillo.",
+        "usos": "Infusiones, cosmética y productos calmantes.",
+        "medicinal": "Propiedades relajantes, digestivas y antiinflamatorias."
+    },
+    "laurel": {
+        "caracteristicas": "Arbusto o árbol aromático de hojas duras y brillantes.",
+        "usos": "Cocina, aromatización y rituales tradicionales.",
+        "medicinal": "Propiedades digestivas, expectorantes y antisépticas."
+    },
+    "hinojo": {
+        "caracteristicas": "Planta aromática con bulbo blanco y hojas plumosas.",
+        "usos": "Cocina, infusiones y aceites esenciales.",
+        "medicinal": "Propiedades digestivas, carminativas y antiinflamatorias."
+    }
+}
