@@ -4,10 +4,13 @@
 Aplicación base propuesta: chatbot en Python con Tkinter
 Este proyecto consiste en un chatbot desarrollado en Python con Tkinter y una base de datos en formato JSON.
 La aplicación permite realizar preguntas sobre plantas mediterráneas y obtener respuestas almacenadas en la base de datos.
+Actualmente no da gran información sobre las plantas salvo unas cuantas características y no tiene cargada una gran información, a futuro sería recomendable ampliar.
 El proyecto está versionado con GitHub, contenerizado con Docker y orquestado con Docker Compose.
 ## Instalación y ejecución
 ### 1. Clonar el repositorio
-git clone https://github.com/Adrics1991/proyecto_final_optativa.git
+git clone git clone https://github.com/Adrics1991/proyecto_final_optativa.git
+cd proyecto_final_optativa
+
 cd chatbot-dam
 
 ### 2. Construir la imagen
