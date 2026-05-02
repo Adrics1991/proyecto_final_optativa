@@ -11,8 +11,6 @@ El proyecto está versionado con GitHub, contenerizado con Docker y orquestado c
 git clone git clone https://github.com/Adrics1991/proyecto_final_optativa.git
 cd proyecto_final_optativa
 
-cd chatbot-dam
-
 ### 2. Construir la imagen
 docker build -t chatbot .
 
@@ -37,11 +35,12 @@ CMD ["python", "app.py"]
 
 
 ## docker-compose.yml
-Define el servicio `chatbot`, monta un volumen para persistir `base_datos.json`
+Define el servicio `chatbot`, monta un volumen para persistir `plantas.json`
 
 El archivo docker-compose.yml define el servicio principal del chatbot.
 Se monta un volumen para persistir el archivo base_datos.json 
 Ejecuta automáticamente desde la aplicación 
+“El servicio no expone puertos porque la aplicación Tkinter requiere entorno gráfico y solo puede ejecutarse en local.”
 
 ## Código del docker-compose.yml
 version: "3.9"
